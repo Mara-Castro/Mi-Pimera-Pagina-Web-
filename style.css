@@ -1,0 +1,36 @@
+body{
+       background-color: cornflowerblue;
+}
+
+h1{
+   color: black;
+   text-align: center;
+
+}
+
+p{
+    color: black;
+    font-family: 'VT323', monospace;
+}
+h3{
+    color: darkred;
+} 
+
+
+ #lista-ordenada{
+  color:rgba(255, 17, 0, 0.911)
+ } 
+
+
+img{ 
+  width: 200px;
+}
+
+img{
+   width: 400px;
+   margin-left: auto;
+   margin-right:auto
+   
+}
+ 
+
